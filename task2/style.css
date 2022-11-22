@@ -1,0 +1,16 @@
+h1 {
+    color: #94694a;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+p {
+    margin: 10px;
+    color: #94694a;
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
